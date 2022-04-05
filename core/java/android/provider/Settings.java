@@ -6574,6 +6574,12 @@ public final class Settings {
          */
         public static final String NOTIFICATION_MATERIAL_DISMISS = "notification_material_dismiss";
 
+    /**
+         * Whether to show media player in QS
+         * @hide
+         */
+        public static final String QS_MEDIA_PLAYER = "qs_media_player";
+
         /**
          * Keys we no longer back up under the current schema, but want to continue to
          * process when restoring historical backup datasets.
