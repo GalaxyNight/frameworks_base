@@ -6574,7 +6574,7 @@ public final class Settings {
          */
         public static final String NOTIFICATION_MATERIAL_DISMISS = "notification_material_dismiss";
 
-    /**
+        /**
          * Whether to show media player in QS
          * @hide
          */
